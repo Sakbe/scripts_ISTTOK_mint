@@ -1,0 +1,86 @@
+%%%% shots for checking negative MIMO
+
+%load('shot_47771.mat');% good x0?Klamna filter 
+% load('shot_47774.mat'); %shit
+% load('shot_47793.mat');% more or less
+% load('shot_47794.mat'); % bad
+% load('shot_47796.mat'); % good
+ load('shot_47797.mat');% good 
+%  load('shot_47805.mat');% good
+%  load('shot_47812.mat');
+%  load('shot_47860.mat');
+%  load('shot_47880.mat');  %10
+%  load('shot_47939.mat');
+%  load('shot_47943.mat');
+%  load('shot_47944.mat');
+% load('shot_47946.mat');
+%  load('shot_47947.mat');
+%  load('shot_47951.mat');
+%  load('shot_48091.mat');
+%  load('shot_48099.mat');
+%  load('shot_48119.mat');
+%  load('shot_48130.mat');  %20
+
+
+
+% index1=2495;
+% index2=2739;
+
+% index1=2692;
+% index2=2897;
+% 
+% index1=1589;
+% index2=1816;
+% 
+% index1=3226;
+% index2=3454;
+% 
+% index1=2802;
+% index2=3051;
+% 
+index1=3334;
+index2=3578;
+
+% index1=1805;
+% index2=2054;
+% 
+% index1=949;
+% index2=1199;
+% 
+% index1=807;
+% index2=1055;
+% 
+% index1=876;     %10
+% index2=1119;
+% 
+% 
+% index1=816;
+% index2=1050;
+% 
+% index1=821;
+% index2=1060;
+% 
+% index1=809;
+% index2=1050;
+% 
+% index1=717;
+% index2=962;
+% 
+% index1=1241;
+% index2=1483;
+% 
+% index1=1303;
+% index2=1460;
+% 
+% index1=332;
+% index2=571;
+% 
+% 
+% index1=1340;
+% index2=1576;
+% % 
+% index1=810;
+% index2=1057;
+% 
+% index1=1354;    %20
+% index2=1593;
